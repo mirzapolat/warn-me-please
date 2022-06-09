@@ -1,0 +1,11 @@
+C:\PROJEKTE\VS2019\csharp\source\Warn Me Please\Warn Me Please\bin\Debug\Warn Me Please.exe.config
+C:\PROJEKTE\VS2019\csharp\source\Warn Me Please\Warn Me Please\bin\Debug\Warn Me Please.exe
+C:\PROJEKTE\VS2019\csharp\source\Warn Me Please\Warn Me Please\bin\Debug\Warn Me Please.pdb
+C:\PROJEKTE\VS2019\csharp\source\Warn Me Please\Warn Me Please\bin\Debug\MaterialSkin.dll
+C:\PROJEKTE\VS2019\csharp\source\Warn Me Please\Warn Me Please\obj\Debug\Warn Me Please.csprojAssemblyReference.cache
+C:\PROJEKTE\VS2019\csharp\source\Warn Me Please\Warn Me Please\obj\Debug\Warn_Me_Please.Form1.resources
+C:\PROJEKTE\VS2019\csharp\source\Warn Me Please\Warn Me Please\obj\Debug\Warn_Me_Please.Properties.Resources.resources
+C:\PROJEKTE\VS2019\csharp\source\Warn Me Please\Warn Me Please\obj\Debug\Warn Me Please.csproj.GenerateResource.cache
+C:\PROJEKTE\VS2019\csharp\source\Warn Me Please\Warn Me Please\obj\Debug\Warn Me Please.csproj.CopyComplete
+C:\PROJEKTE\VS2019\csharp\source\Warn Me Please\Warn Me Please\obj\Debug\Warn Me Please.exe
+C:\PROJEKTE\VS2019\csharp\source\Warn Me Please\Warn Me Please\obj\Debug\Warn Me Please.pdb
